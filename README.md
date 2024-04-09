@@ -30,7 +30,7 @@ In this text-based adventure game, you play the role of an adventurer trapped in
 
 # Initial Configuration
 In the initial setup, the following items are located in the corresponding rooms:
-
+![image](https://github.com/oanamaria10/Text-Based-Adventure-Game/assets/116117096/88bcd815-7f16-4ee2-8cae-784d8b19ba1f)
 
   
 
