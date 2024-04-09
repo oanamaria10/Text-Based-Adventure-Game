@@ -3,6 +3,7 @@
 In this text-based adventure game, you play the role of an adventurer trapped in the mystifying ”Castle of Illusions”. Each room within the castle contains unique challenges and rewards. Your ultimate goal is to discover the secret exit that leads to the outside world. However, navigating through the castle isn’t as easy as it may seem - certain rooms are accessible only if you possess specific items.
 
 # Game Map
+![image](https://github.com/oanamaria10/Text-Based-Adventure-Game/assets/116117096/ae8bb022-335e-44da-b6b1-96332e36726c)
 
 # Rooms Description
 - Entrance Hall: The grand foyer of the Castle of Illusions
